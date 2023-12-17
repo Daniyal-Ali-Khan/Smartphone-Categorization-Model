@@ -18,7 +18,7 @@ This project involves the development of a machine learning model to predict the
 - The code includes data preprocessing, exploratory data analysis (EDA), and the implementation of a Decision Tree Classifier.
 
 ## Dataset
-- The dataset used in this project is sourced from "mobile.csv," containing various features related to mobile phones.
+- The dataset used in this project is sourced from "train.csv," containing various features related to mobile phones.
 
 ## Exploratory Data Analysis
 - EDA involves checking for missing values, exploring summary statistics, and visualizing the distribution of the target variable (price range).
